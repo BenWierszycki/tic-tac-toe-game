@@ -3,4 +3,4 @@
 </p>
 
 
-This repository contains a fully functioning tic tac toe (naughts and crosses) game that can be played between two people
+This repository contains python code for a fully functioning tic tac toe (naughts and crosses) game that can be played between two people
